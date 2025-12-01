@@ -21,7 +21,7 @@ I help lead the build-out of state-of-the-art models and production-grade system
 
 ---
 
-Feel free to explore my [About](/about.html), [Projects](/projects.html), or [CV](/cv.html) pages for more detail.
+Feel free to explore my [About](/about.html), [Projects](/projects.html), or [CV](/cv.md) pages for more detail.
 
 Fun
 ======
