@@ -28,4 +28,5 @@ Fun
 - Highly ranked speed **Chess** player ***rapid*** on chess.com.
 - Volunteering and coaching.
 - Soccer.
+- Kaggle AI Mentor
 
