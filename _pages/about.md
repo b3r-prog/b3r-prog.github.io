@@ -30,3 +30,9 @@ Fun
 - Soccer.
 - Kaggle AI Mentor
 
+Interest
+======
+- Non-linear innovation.
+- Unsolved large scale problems.
+- Helping and making world more equitable.
+- Entrepreneurship
