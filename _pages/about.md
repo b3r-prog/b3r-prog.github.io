@@ -21,7 +21,7 @@ I help lead the build-out of state-of-the-art models and production-grade system
 
 ---
 
-Feel free to explore my [About](/about.html), [Projects](/projects.html), or [CV](/cv.md) pages for more detail.
+Feel free to explore my [Projects](<https://www.linkedin.com/in/olaitan-olaleye-71233027/>), or [CV](/cv.md) pages for more detail.
 
 Fun
 ======
