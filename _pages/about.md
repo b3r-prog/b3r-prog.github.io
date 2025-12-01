@@ -1,15 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Professional Summary / About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+---
+title: Welcome
+layout: home
+---
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# Hello, I’m <Laitan (Dr Olaitan Olaleye)>  
+**Principal Machine Learning Scientist** — specializing in large scale generative modeling, foundation modeling, ***reasoning***, computer vision & agents.
+
+I help lead the build-out of state-of-the-art models and production-grade systems that bring generative AI and enterprise ML solutions into real-world use. My work spans from automatic prompt optimization, natural language processing and reasoning to computer vision and medical imaging, always with an emphasis on real-world impact and revenue generation. I work at the intersection of SOTA-grade ML and robust real-world implementations: from fine-tuning large language models and multi-modal systems, to designing scalable GPU-based solutions and arhitecting custom auto/ml and resource efficient solutions.
+
+---
+
+## What I Do  
+
+- **Generative & Foundation Models** — LLMs, multi-modal models, prompt engineering, instruction tuning, context-aware reasoning.  
+- **Computer Vision & Medical Imaging** — segmentation, detection, classification on MRI/CT; deep-learning pipelines for clinical imaging.  
+- **ML Systems & Infrastructure** — end-to-end pipelines: data ingestion → model training → deployment → scalable inference via cloud/GPU infrastructure.  
+- **Multi-modal & Reasoning Systems** — combining vision, language, structured data; building reasoning layers and bridging modalities for complex tasks.  
+
+---
+
+Feel free to explore my [About](/about.html), [Projects](/projects.html), or [CV](/cv.html) pages for more detail.
+
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
 A data-driven personal website
 ======
