@@ -25,7 +25,7 @@ Feel free to explore my [About](/about.html), [Projects](/projects.html), or [CV
 
 Fun
 ======
-Highly ranked speed **Chess** player ***rapid*** on chess.com
-Volunteering and coaching 
-Soccer
-======
+- Highly ranked speed **Chess** player ***rapid*** on chess.com.
+- Volunteering and coaching.
+- Soccer.
+
